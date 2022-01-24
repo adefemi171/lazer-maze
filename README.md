@@ -1,7 +1,9 @@
 # lazer-maze
 Lazer Maze Challenge
 
-## How to setup project and run locally
+1. Use CLI to request the matrix size.
+
+## How to setup project and run locall
 
 ### Clone the repository 
 
